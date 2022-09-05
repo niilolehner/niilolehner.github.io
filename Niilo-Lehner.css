@@ -25,7 +25,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 663px;
+  min-height: 677px;
   background-image: none;
 }
 
@@ -36,7 +36,7 @@
 .u-section-1 .u-text-1 {
   font-family: Aldrich;
   font-size: 3rem;
-  margin: 39px 0 0;
+  margin: 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -71,7 +71,7 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 547px;
+    min-height: 558px;
   }
 
   .u-section-1 .u-text-3 {
